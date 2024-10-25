@@ -59,3 +59,11 @@ int main()
 when the program ends. In between, they can be stored in registers. Additionally, when
 testing the submitted files, we should be able to change the values of A, B, C and still get
 the correct results.
+
+## Grade
+11/15
+
+### Comments
+Task B: correct answer is 37 but your code displayed 49 value which is incorrect. (-2)
+
+Task C: correct answer is 0 but your code displayed 3 value for Z which is incorrect.(-2)
